@@ -137,4 +137,4 @@ async def on_command_error(ctx, error):
         await ctx.send(f"An error occurred: {str(error)}")
 
 # Replace with your token
-bot.run('MTMzODM3NzIwODY0ODk2MjEwOQ.GukXWs.XmiF7DgXIRP2XKQZasZUTXmUqfzdBmn81Lu3lw')
+bot.run('')
